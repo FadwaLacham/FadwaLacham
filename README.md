@@ -1,82 +1,84 @@
 # 👋 Hi, I'm Fadwa Lacham
 
 💻 **Data Science & IoT Engineer**  
-📍 Morocco | 🤖 AI & Intelligent Systems Engineer  
+📍 Morocco | 🤖 AI, Data & Intelligent Systems Engineer  
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Science & IoT Engineer specializing in building intelligent, data-driven systems that combine AI, machine learning, and embedded technologies.
+I am a Data Science & IoT Engineer specializing in building intelligent, scalable, and data-driven systems.
 
-I focus on designing scalable solutions using data, automation, and AI-powered systems.
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Analytics
-- 🌐 IoT & Embedded Systems
-- 🧠 NLP & Generative AI (RAG systems)
-- ⚙️ End-to-end intelligent application development
+I design and develop end-to-end solutions combining:
+- Artificial Intelligence
+- Machine Learning
+- Data Engineering
+- IoT & Embedded Systems
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Expertise
 
-### Programming Languages
-- Python | Java | JavaScript
+- 🤖 Machine Learning & Deep Learning
+- 📊 Data Science & Predictive Analytics
+- 🧠 NLP & Generative AI (RAG systems)
+- 🌐 IoT & Smart Systems
+- 📈 Data Visualization & BI
+- ⚙️ Full-stack intelligent applications
 
-### AI / Data Science
-- TensorFlow
-- Scikit-learn
-- NLP (VADER, RoBERTa, NLTK)
-- Retrieval-Augmented Generation (RAG)
+---
 
-### Data & BI
-- Power BI
-- Excel
-- Talend
+## 🧰 Tech Stack
 
-### Web & Backend
-- Flask
-- Bootstrap
-- REST APIs
+### 💻 Programming Languages
+Python | Java | JavaScript
 
-### Tools & DevOps
-- Git & GitHub
-- Docker
-- Jenkins
-- Jupyter / Colab
+### 🤖 AI / Machine Learning
+TensorFlow | Scikit-learn | Keras  
+NLTK | VADER | RoBERTa  
+RAG (Retrieval-Augmented Generation)
+
+### 📊 Data & BI
+Power BI | Excel | Talend  
+Pandas | NumPy | Data Cleaning
+
+### 🌐 Web Development
+Flask | Bootstrap | REST APIs
+
+### 🛠️ Tools & DevOps
+Git | GitHub | Docker | Jenkins  
+Jupyter Notebook | Google Colab
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏥 AI Medical Diagnosis System
-- CNN models (DenseNet201, VGG16, VGG19)
-- Breast cancer classification system
-- Flask-based deployment
-- 81% accuracy achieved
+### 🏥 Breast Cancer Detection System
+- Deep Learning CNN models (DenseNet201, VGG16, VGG19)
+- Flask-based web application
+- Achieved 81% accuracy in classification
 
 ---
 
-### 📊 Intelligent Stock Prediction Platform
+### 📊 Smart Stock Prediction System
 - Time series forecasting (ARIMA, Prophet, ML models)
 - Power BI dashboards for decision support
-- Model benchmarking (MAE / RMSE)
+- Model comparison using MAE & RMSE
 
 ---
 
 ### 💬 NLP System for Darija Language
-- Dataset creation via web scraping
-- Deep learning model using TensorFlow
+- Dataset creation using web scraping (BeautifulSoup)
+- NLP preprocessing and model training (TensorFlow)
 - Improved accuracy from 80% → 90%
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadwaLacham&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadwaLacham&show_icons=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadwaLacham&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadwaLacham&layout=compact&hide_border=true&theme=radical)
 
 ---
 
@@ -87,7 +89,7 @@ I focus on designing scalable solutions using data, automation, and AI-powered s
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - 📧 Email: fadwa.lacham@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/fadwa-lacham-90b882255  
@@ -95,4 +97,14 @@ I focus on designing scalable solutions using data, automation, and AI-powered s
 
 ---
 
-⭐ Always open to collaborations in AI, Data Science, and IoT systems.
+## ⭐ Open to Opportunities
+
+I am actively open to:
+- AI / Data Science roles
+- IoT / Embedded Systems projects
+- Research & innovation collaborations
+- Freelance or startup opportunities
+
+---
+
+⭐ *"Building intelligent systems that connect data, machines, and intelligence."*
