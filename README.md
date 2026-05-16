@@ -74,14 +74,6 @@ Jupyter Notebook | Google Colab
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadwaLacham&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadwaLacham&layout=compact&hide_border=true&theme=radical)
-
----
-
 ## 🌍 Portfolio
 
 🚀 Live Portfolio:  
@@ -107,4 +99,4 @@ I am actively open to:
 
 ---
 
-⭐ *"Building intelligent systems that connect data, machines, and intelligence."*
+⭐ *Building intelligent systems that connect data, machines, and intelligence.*
