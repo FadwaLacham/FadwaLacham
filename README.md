@@ -1,87 +1,93 @@
 # 👋 Hi, I'm Fadwa Lacham
 
 💻 **Data Science & IoT Engineer**  
-📍 Morocco | 🎯 Passionate about AI, Data & Smart Systems  
+📍 Morocco | 🤖 AI & Intelligent Systems Engineer  
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Science & IoT engineering student passionate about building intelligent systems that combine AI, machine learning, and embedded technologies.
+I am a Data Science & IoT Engineer specializing in building intelligent, data-driven systems that combine AI, machine learning, and embedded technologies.
 
-- 🤖 Interested in AI, Machine Learning, NLP
-- 📊 Data Analysis & Business Intelligence
-- 🌐 IoT & Smart Systems development
-- 🔬 Always learning and exploring new technologies
+I focus on designing scalable solutions using data, automation, and AI-powered systems.
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Analytics
+- 🌐 IoT & Embedded Systems
+- 🧠 NLP & Generative AI (RAG systems)
+- ⚙️ End-to-end intelligent application development
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+### Programming Languages
+- Python | Java | JavaScript
 
-### 🤖 AI / Data Science
+### AI / Data Science
 - TensorFlow
 - Scikit-learn
-- NLP (NLTK, VADER, RoBERTa)
-- RAG systems
+- NLP (VADER, RoBERTa, NLTK)
+- Retrieval-Augmented Generation (RAG)
 
-### 📊 Data / BI
+### Data & BI
 - Power BI
 - Excel
 - Talend
 
-### 🌐 Web & Backend
+### Web & Backend
 - Flask
 - Bootstrap
 - REST APIs
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 - Git & GitHub
 - Docker
 - Jenkins
-- Jupyter / Google Colab
+- Jupyter / Colab
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 🏥 Breast Cancer Detection App
-- Deep Learning CNN (DenseNet201, VGG16, VGG19)
-- Achieved 81% accuracy
-- Web app using Flask + Bootstrap
+### 🏥 AI Medical Diagnosis System
+- CNN models (DenseNet201, VGG16, VGG19)
+- Breast cancer classification system
+- Flask-based deployment
+- 81% accuracy achieved
 
-### 🔹 📊 Stock Prediction System
-- Time series forecasting (ARIMA, Prophet)
-- Power BI dashboards for decision making
-- Model comparison using MAE & RMSE
+---
 
-### 🔹 💬 NLP for Darija Language
-- Web scraping + dataset creation
-- TensorFlow model training
+### 📊 Intelligent Stock Prediction Platform
+- Time series forecasting (ARIMA, Prophet, ML models)
+- Power BI dashboards for decision support
+- Model benchmarking (MAE / RMSE)
+
+---
+
+### 💬 NLP System for Darija Language
+- Dataset creation via web scraping
+- Deep learning model using TensorFlow
 - Improved accuracy from 80% → 90%
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![Fadwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadwaLacham&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadwaLacham&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadwaLacham&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadwaLacham&layout=compact)
 
 ---
 
 ## 🌍 Portfolio
 
-🚀 Visit my portfolio:  
+🚀 Live Portfolio:  
 👉 https://fadwa-lacham.netlify.app/
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 - 📧 Email: fadwa.lacham@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/fadwa-lacham-90b882255  
@@ -89,4 +95,4 @@ I am a Data Science & IoT engineering student passionate about building intellig
 
 ---
 
-⭐ *Always open to collaborations, internships, and innovative AI/Data projects.*
+⭐ Always open to collaborations in AI, Data Science, and IoT systems.
